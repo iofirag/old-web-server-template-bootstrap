@@ -1,0 +1,7 @@
+For running the site:
+
+Run the server by:
+$ node server.js
+
+nevigate browser to:
+http://localhost:8080/example/
